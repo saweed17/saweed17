@@ -6,14 +6,14 @@
 Here are some ideas to get you started: -->
 <ul>
   
-<li>- 🔭 I’m currently working on ...</li>
-<li>- 🌱 I’m currently learning ...</li>
-<li>- 👯 I’m looking to collaborate on ...</li>
-<li>- 🤔 I’m looking for help with ...</li>
-<li>- 💬 Ask me about ...</li>
-<li>- 📫 How to reach me: ...</li>
-<li>- 😄 Pronouns: ...</li>
-<li>- ⚡ Fun fact: ...</li>
+<li>- 🔭 I’m currently working on My website and Online business...</li>
+<li>- 🌱 I’m currently learning React and SQL...</li>
+<li>- ✨ I seek collaboration to gain experience as a Web Developer or Network Administrator, as I am very passionate about computer networking....</li>
+<li>- 🤔 I’m looking for help with...</li>
+<li>- 💬 Ask me about something special or strange...</li>
+<li>- 📫 Contact me to develop a website or web application.</li>
+<li>- 😄 Pronouns: Persian Cat 🐈...</li>
+<li>- ⚡ Fun fact: Nobody Knows :)...</li>
 
 
 
